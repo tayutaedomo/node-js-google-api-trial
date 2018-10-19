@@ -1,0 +1,19 @@
+{
+  "name": "node-js-google-drive-quicksart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayutaedomo/node-js-google-drive-quicksart.git"
+  },
+  "author": "Tayutaedomo <tayutaedomo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayutaedomo/node-js-google-drive-quicksart/issues"
+  },
+  "homepage": "https://github.com/tayutaedomo/node-js-google-drive-quicksart#readme"
+}
