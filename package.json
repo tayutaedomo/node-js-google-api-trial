@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tayutaedomo/node-js-google-drive-quicksart/issues"
   },
-  "homepage": "https://github.com/tayutaedomo/node-js-google-drive-quicksart#readme"
+  "homepage": "https://github.com/tayutaedomo/node-js-google-drive-quicksart#readme",
+  "devDependencies": {
+    "googleapis": "^27.0.0"
+  }
 }
